@@ -109,8 +109,3 @@ class ShowMenuItems extends StatelessWidget {
   }
 }
 
-Future<void> getDataMenu() async {
-  await gdsfcd1();
-  await gdfsgvfsd3();
-  await cdsaxas2();
-}
